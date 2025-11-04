@@ -38,13 +38,16 @@ Ce projet démontre l’utilisation de PySpark pour deux cas d’usage distincts
 ---
 
 ## 📁 Structure du projet
+```bash
 PySpark-Data-Management/
 │
-├── PySparkDataAnalysis.ipynb       # Analyse des données de football
-├── PySparkMachineLearning.ipynb    # Prédiction maladies cardiovasculaires
+├── PySparkDataAnalysis.ipynb        # Analyse des données de football
+├── PySparkMachineLearning.ipynb     # Prédiction maladies cardiovasculaires
+│
 ├── data/
-│   ├── football_matches.csv        # Données des matchs de football
-│   └── heart_disease.csv           # Données médicales
+│   ├── football_matches.csv         # Données des matchs de football
+│   └── heart_disease.csv            # Données médicales
+│
 └── README.md
 
 ---
